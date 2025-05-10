@@ -142,3 +142,17 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Styling for the participants list */
+.participants-list {
+  list-style-type: circle; /* Use circle bullets */
+  padding-left: 20px; /* Add padding to align the list */
+  margin-top: 10px; /* Add spacing above the list */
+  font-family: Arial, sans-serif; /* Use a clean font */
+  font-size: 14px; /* Set a readable font size */
+  color: #333; /* Use a dark gray color for text */
+}
+
+.participants-list li {
+  margin-bottom: 5px; /* Add spacing between list items */
+}
